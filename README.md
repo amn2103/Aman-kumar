@@ -1,6 +1,8 @@
   <h1 align="center">Hi 👋, I'm Aman Kumar </h1>
 
-🎓 Student | 💻 Frontend Enthusiast | 🌐 Aspiring Full Stack Web Developer
+  <h3 align="center"> 🎓 Student |💻 Frontend Enthusiast | 🌐 Aspiring Full Stack Web Developer</h3>
+
+
 
 ---
 
@@ -14,14 +16,36 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🧰 Languages and Tools
+
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OpenAI_Logo.svg" alt="ChatGPT" width="40" height="40"/>
+  </a>
+</p>
+
 
 ---
+
+Other Skills:<li><strong>Web Development:</strong> c , c++, HTML, CSS,  JavaScript</li> <li><strong>Tools:</strong> Git, GitHub, ChatGPT prompting</li> <li><strong>Office:</strong> Excel, Word, PowerPoint</li> <li><strong>Designing:</strong> Canva</li> <li><strong>Soft Skills:</strong> Communication (English, Hindi), Content Writing</li> </ul>
+
+---
+### 📈 GitHub Stats
+
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amn2103&show_icons=true&theme=radical)
 
 
 
